@@ -1,7 +1,11 @@
 # toposnow
 
-The toposnow project investigates the topographic control on summer snow cover in the Dry Andes with Sentinel-2 and SRTM elevation data.
-It follows the central research question on the relationship between summer snow cover (SSC) distribution and terrain parameters. The Cordón del Plata mountain range being characterized by an arid climate and a spatially fragmented continous snow cover, will serve as a test site. Knowledge about the spatial distribution of snow cover that is majorly governed by topography is essential for freshwater management in dry regions.
+The toposnow project investigates the topographic control on summer snow cover in the Dry Andes with Landsat-9 and SRTM elevation data.
+It follows the central research question on the relationship between summer snow cover (SSC) distribution and terrain parameters in arid high mountain areas. The Cordón del Plata mountain range is such a mountain range that is characterized by an arid climate and a spatially fragmented continous snow cover, and will serve as a test site for this project. But why is knowledge about the spatial distribution of snow cover so important?
+
+## Introduction
+
+Seasonal snow cover is a major contributor to the regional hydrological cycle by supplying rivers with meltwater that reach far beyond high-mountain regions. Especially in areas of the world that do not receive that much freshwater through precipitation, such as the Central Cordón del Plata (1000; et al.), snow and ice melt processes have a higher significance for local water supply than else where. As water is a limited and precious resource in these regions, efficient water management is key. In former studies, it was made evident that topographic parameters like elevation, slope and aspect have a major impact on the spatial distribution of snow cover as they govern the amount of incoming solar radiation (Saydi a. Ding 2020). Therefore, a better understanding and prediction of  spatio-temporal snow cover dynamics requires information  
 
 ## GIS workflow
 
