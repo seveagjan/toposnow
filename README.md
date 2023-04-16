@@ -7,7 +7,7 @@ It follows the central research question on the relationship between SSC distrib
 
 Seasonal snow cover is a major contributor to the regional hydrological cycle by supplying rivers with meltwater that reach far beyond high-mountain regions. Especially in areas of the world that do not receive that much freshwater through precipitation, such as the Cordón del Plata arc (about 500 mm/a; Trombotto-Liaudat et al. 2020), snow and ice melt have a higher significance for river discharge and water supply than else where (Passang et al. 2022). As water is a limited and precious resource in these regions, efficient water management is key. In former studies, it was made evident that topographic parameters like elevation, slope and aspect have a major impact on the spatial distribution of snow cover as they govern the amount of incoming solar radiation (Singh Yadav et al. 2021, Saydi a. Ding 2020, Shaw et al. 2020). Therefore, a better understanding and prediction of spatio-temporal snow cover dynamics requires information on the impact of regional topography.
 
-Here, this information was obtained by the GIS-based processing of digital elevation data of a section within the Cordón del Plata mountain range in Western Argentina. Besides the raw elevation data, the following terrain parameters, that have an potential influence on local snow cover, were computed in SAGA GIS: 
+Here, this information was obtained by the GIS-based processing of digital elevation data of a section within the Cordón del Plata mountain range in Western Argentina. Besides the raw elevation data, the following terrain parameters, that have a potential influence on local snow cover, were computed in SAGA GIS: 
 
 - Slope aspect
 - Slope gradient
