@@ -7,7 +7,7 @@ It follows the central research question on the relationship between SSC distrib
 
 Seasonal snow cover is a major contributor to the regional hydrological cycle by supplying rivers with meltwater that reach far beyond high-mountain regions. Especially in areas of the world that do not receive that much freshwater through precipitation, such as the Cordón del Plata arc (1000; et al.), snow and ice melt processes have a higher significance for local water supply than else where (Passang et al. 2022). As water is a limited and precious resource in these regions, efficient water management is key. In former studies, it was made evident that topographic parameters like elevation, slope and aspect have a major impact on the spatial distribution of snow cover as they govern the amount of incoming solar radiation (Yadav et al. 2021, Saydi a. Ding 2020). Therefore, a better understanding and prediction of spatio-temporal snow cover dynamics requires information on the impact of regional topography.
 
-In this study, this information was obtained by the GIS-based processing of digital elevation data of a section within the Cordón del Plata mountain range in Western Argentina. Besides the raw elevation data, the following terrain parameters, that have an potential influence on local snow cover, were computed in SAGA GIS: 
+Here, this information was obtained by the GIS-based processing of digital elevation data of a section within the Cordón del Plata mountain range in Western Argentina. Besides the raw elevation data, the following terrain parameters, that have an potential influence on local snow cover, were computed in SAGA GIS: 
 
 - Slope aspect
 - Slope gradient
@@ -19,7 +19,8 @@ In this study, this information was obtained by the GIS-based processing of digi
 
 The relationship of these terrain parameters with SSC was examined by conducting a correlation analysis with optical satellite data acquired by Landsat-9 from the hemispheric summer season. The following outcomes were expected: 
 
-- SSC, represented by NDSI, shows a correlation with the different terrain parameters, for example: Snow cover is less distributed across South-exposed slopes, in lower elevations as well as in steep terrain.
+- SSC, represented by NDSI, shows a correlation with the different terrain parameters, for example: Snow cover is less distributed across south-exposed slopes, in lower elevations as well as in steep terrain.
+- 
 
 ## GIS workflow
 
