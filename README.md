@@ -1,7 +1,7 @@
 # toposnow
 
 The toposnow project investigates the topographic control on summer snow cover (SSC) in the Dry Andes with Landsat-9 and SRTM elevation data.
-It follows the central research question on the relationship between SSC distribution and terrain parameters in arid high mountain areas. The Cordón del Plata mountain range is such a mountain range that is characterized by an arid climate and a spatially fragmented continous snow cover, and will serve as a test site for this project. But why is knowledge about the spatial distribution of snow cover so important?
+It follows the central research question on the relationship between SSC distribution and terrain parameters in arid high mountain areas. The Cordón del Plata in the Central Andes is such a mountain range that is characterized by an arid climate and a spatially fragmented continous snow cover, and will serve as a test site for this project. But why is knowledge about the spatial distribution of snow cover so important?
 
 ## Introduction
 
