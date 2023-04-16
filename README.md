@@ -20,7 +20,8 @@ Here, this information was obtained by the GIS-based processing of digital eleva
 The relationship of these terrain parameters with SSC was examined by conducting a correlation analysis with optical satellite data acquired by Landsat-9 from the hemispheric summer season. The following outcomes were expected: 
 
 - SSC, represented by NDSI, shows a correlation with the different terrain parameters, for example: Snow cover is less distributed across south-exposed slopes, in lower elevations as well as in steep terrain.
-- 
+
+
 
 ## GIS workflow
 
